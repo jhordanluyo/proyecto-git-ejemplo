@@ -1,1 +1,1 @@
-estamos aprendiendo git
+https://github.com/jhordanluyo/proyecto-git-ejemplo
